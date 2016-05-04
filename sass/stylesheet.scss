@@ -1,0 +1,16 @@
+body {
+  background-color: #EBEDED;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+a {
+  margin: 1%;
+}
+
+img:hover {
+   -webkit-filter: brightness(70%);
+   filter: brightness(70%);
+}

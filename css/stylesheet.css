@@ -1,16 +1,14 @@
 body {
-  background-color: #EBEDED;
-}
+  background-color: #EBEDED; }
 
 .img-responsive {
-    margin: 0 auto;
-}
+  margin: 0 auto; }
 
-img {
-  padding: 3% 0 3% 0;
-}
+a {
+  margin: 1%; }
 
 img:hover {
-   -webkit-filter: brightness(70%);
-   filter: brightness(70%);
-}
+  -webkit-filter: brightness(70%);
+  filter: brightness(70%); }
+
+/*# sourceMappingURL=stylesheet.css.map */
