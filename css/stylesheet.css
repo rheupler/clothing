@@ -4,11 +4,16 @@ body {
 .img-responsive {
   margin: 0 auto; }
 
+a:hover img {
+  opacity: .7; }
+
+img {
+  opacity: 1;
+  transition: opacity .25s ease-in-out;
+  -moz-transition: opacity .25s ease-in-out;
+  -webkit-transition: opacity .25s ease-in-out; }
+
 a {
   margin: 1%; }
-
-img:hover {
-  -webkit-filter: brightness(70%);
-  filter: brightness(70%); }
 
 /*# sourceMappingURL=stylesheet.css.map */
